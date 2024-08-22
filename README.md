@@ -1,10 +1,9 @@
 ### OLÁ! EU SOU O PEDRO 👋
 
-- 🔭 No momento estou apenas estudando <img align="right" alt="Andressa" height="150em" width="150em" src="https://github.com/PedroHGama/PedroHGama/blob/a7313017fd6ccddd690157a12576be3c9bad557a/Photos/Pesonal-Photo.jpg" />
+ <img align="right" alt="Pedro" height="150em" width="150em" src="https://github.com/PedroHGama/PedroHGama/blob/a7313017fd6ccddd690157a12576be3c9bad557a/Photos/Pesonal-Photo.jpg" />
 - 🌱 Iniciante aprendendo desenvolvimento web
-- ☕ Um pouco obcecada por java
 - 🐼 Adoro buscar entender como as coisas funcionam
-- ⚡ Futura dev
+- ⚡ Futuro dev
 -->
 
 <div>
@@ -17,9 +16,7 @@
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Pedro-JAVA" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Pedro-MYSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
-  <img align="center" alt="Pedro-NODE.JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
           
 </div>
   
