@@ -1,5 +1,5 @@
-### OLÁ! EU SOU O PEDRO 👋
-
+OLÁ! EU SOU O PEDRO 👋
+=======================
 Web Developer 
 -----------------
 - 🌱 Iniciante aprendendo desenvolvimento web
