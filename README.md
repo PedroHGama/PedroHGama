@@ -1,5 +1,5 @@
-OLÁ! EU SOU O PEDRO 👋
-=======================
+## OLÁ! EU SOU O PEDRO 👋
+
 Web Developer 
 -----------------
 - 🌱 Iniciante aprendendo desenvolvimento web
@@ -7,7 +7,7 @@ Web Developer
 - ⚡ Futuro dev
 -->
   
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="Pedro- ASP.NET" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
@@ -27,7 +27,7 @@ Web Developer
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="instagram logo" /> </a>
 </div>
 
- # 📊 GitHub Stats:
+ ## 📊 GitHub Stats:
 <div>
   <a href="https://github.com/PedroHGama">
   <img height="180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHGama&layout=compact&langs_count=16&theme=onedark">
