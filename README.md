@@ -1,17 +1,21 @@
 ### OLÁ! EU SOU O PEDRO 👋
 
+Web Developer
+-------------------
+
 - 🌱 Iniciante aprendendo desenvolvimento web <img align="right" alt="Pedro" height="150em" width="150em" src="https://github.com/PedroHGama/PedroHGama/blob/a7313017fd6ccddd690157a12576be3c9bad557a/Photos/Pesonal-Photo.jpg" />
 - 🐼 Adoro buscar entender como as coisas funcionam
 - ⚡ Futuro dev
 -->
 
 <div>
-  
+  # 📊 GitHub Stats:
   <a href="https://github.com/PedroHGama">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroHGama&show_icons=true&theme=onedark&include_all_commits=true&count_private=true/">
   <img height="180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHGama&layout=compact&langs_count=16&theme=onedark">
 </div>
 
+# 💻 Tech Stack:
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="Pedro- ASP.NET" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
