@@ -2,6 +2,7 @@
 
 Web Developer 
 -------------------
+
 - 🌱 Iniciante aprendendo desenvolvimento web   <img align="right" alt="Pedro" height="150em" width="150em" src="https://github.com/PedroHGama/PedroHGama/blob/a7313017fd6ccddd690157a12576be3c9bad557a/Photos/Pesonal-Photo.jpg" />
 - 🐼 Adoro buscar entender como as coisas funcionam
 - ⚡ Futuro dev
