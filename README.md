@@ -31,7 +31,7 @@ Web Developer
 <div>
   <a href="https://github.com/PedroHGama">
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PedroHGama&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHGama&layout=compact&langs_count=16&theme=onedark">
+  <img height="160em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHGama&layout=compact&langs_count=16&theme=onedark">
 </div>
 
 
