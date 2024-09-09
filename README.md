@@ -27,11 +27,11 @@
 
   <!-- Back-End Developer -->
   <h4><strong>🚪 Back-End Developer</strong></h4>
-  <img width="200px" src="https://skillicons.dev/icons?i=cs,sql" alt="Back-End Developer Skills" style="display: block; margin: 0 auto;">
+  <img width="250px" src="https://skillicons.dev/icons?i=cs,sql" alt="Back-End Developer Skills" style="display: block; margin: 0 auto;">
 
   <!-- Ferramentas favoritas -->
-  <h4><strong>🛠️ Favorite Tools</strong></h4>
-  <img width="300px" src="https://skillicons.dev/icons?i=vscode,github,visualstudio" alt="Favorite Tools" style="display: block; margin: 0 auto;">
+<h4><strong>🛠️ Favorite Tools</strong></h4>
+  <img width="250px" src="https://skillicons.dev/icons?i=vscode,github,visalstudio" alt="Favorite Tools">
 </div>
 
 <!-- Redes sociais -->
