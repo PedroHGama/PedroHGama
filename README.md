@@ -33,7 +33,7 @@ Web Developer
 
   <!-- Ferramentas favoritas -->
 <h4><strong>🛠️ Favorite Tools</strong></h4>
-  <img width="150px" src="https://skillicons.dev/icons?i=vscode,github,visualstudio" alt="Favorite Tools">
+  <img width="80px" src="https://skillicons.dev/icons?i=vscode,github,visualstudio" alt="Favorite Tools">
 </div>
 
 <!-- Redes sociais -->
