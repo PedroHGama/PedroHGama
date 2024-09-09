@@ -29,7 +29,7 @@ Web Developer
 
   <!-- Back-End Developer -->
   <h4><strong>🚪 Back-End Developer</strong></h4>
-  <img width="170px" src="https://skillicons.dev/icons?i=cs,dotnet" alt="Back-End Developer Skills" style="display: block; margin: 0 auto;">
+  <img width="150px" src="https://skillicons.dev/icons?i=cs,dotnet" alt="Back-End Developer Skills" style="display: block; margin: 0 auto;">
 
   <!-- Ferramentas favoritas -->
   <h4><strong>🛠️ Favorite Tools</strong></h4>
