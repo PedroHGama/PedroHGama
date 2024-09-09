@@ -36,35 +36,18 @@
 
 <!-- Redes sociais -->
 ## 🌐Socials:
-<div align="center"> 
-  <!-- Botão de contato via Gmail -->
-  <a href="mailto:pedrogamase@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  
-  <!-- Botão de perfil no LinkedIn -->
-  <a href="https://www.linkedin.com/in/pedro-gamam/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-
-  <!-- Botão de contato via WhatsApp -->
-  <a href="https://wa.me/5579988548709" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
-  </a>
-
-  <!-- Botão de perfil no Instagram -->
+<div> 
+  <a href = "mailto:pedrogamase@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/pedro-gamam/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://wa.me/5579988548709" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/eipedrogama/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="instagram logo">
-  </a>
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="instagram logo" /> </a>
 </div>
 
-<!-- Seção de estatísticas do GitHub -->
-## 📊 GitHub Stats:
-<div align="center">
+ ## 📊 GitHub Stats:
+<div>
   <a href="https://github.com/PedroHGama">
-    <!-- Estatísticas de commits e atividades no GitHub -->
-    <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PedroHGama&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <!-- Estatísticas das linguagens mais usadas no GitHub -->
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHGama&layout=compact&langs_count=16&theme=onedark">
-  </a>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PedroHGama&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHGama&layout=compact&langs_count=16&theme=onedark">
 </div>
+
