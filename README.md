@@ -10,12 +10,14 @@
 <br>
 
 <!-- Seção de Desenvolvedor Web centralizada com fonte aumentada -->
-<div align="center">
-  <h1 style="font-size: 36px;">Desenvolvedor Web</h1>
-  <p>🌱 Iniciante aprendendo desenvolvimento web</p>
-  <p>🐼 Adoro buscar entender como as coisas funcionam</p>
-  <p>⚡ Futuro dev</p>
-</div>
+<br>
+
+Web Developer 
+-----------------
+- 🌱 Iniciante aprendendo desenvolvimento web
+- 🐼 Adoro buscar entender como as coisas funcionam
+- ⚡ Futuro dev
+-->
 
 <!-- Seção de linguagens estudadas -->
 <div align="center">
