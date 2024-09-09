@@ -45,8 +45,6 @@ Web Developer
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="instagram logo" /> </a>
 </div>
 
-![Snake animation](https://github.com/daniellimapro/daniellimapro/blob/output/github-contribution-grid-snake.svg)
-
 <br>
 
  ## 📊 GitHub Stats:
@@ -54,5 +52,7 @@ Web Developer
   <a href="https://github.com/PedroHGama">
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PedroHGama&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHGama&layout=compact&langs_count=16&theme=onedark">
+
+![Snake animation](https://github.com/daniellimapro/daniellimapro/blob/output/github-contribution-grid-snake.svg)
     
 </div>
