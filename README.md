@@ -23,7 +23,7 @@ Web Developer
   <img width="120px" src="https://skillicons.dev/icons?i=c#" alt="Back-End Developer Skills">
 
   <h4><strong>🛠️ Favorite Tools</strong></h4>
-  <img width="250px" src="https://skillicons.dev/icons?i=vscode,github,visal studio" alt="Favorite Tools">
+  <img width="250px" src="https://skillicons.dev/icons?i=vscode,github,visalstudio" alt="Favorite Tools">
 </div>
 
  
