@@ -1,4 +1,10 @@
-## OLÁ! EU SOU O PEDRO 👋
+<div align="center">
+  <h2>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Pedro+Gama%21" alt="Typing SVG">
+    </a>
+</div>
+<br>
 
 Web Developer 
 -----------------
