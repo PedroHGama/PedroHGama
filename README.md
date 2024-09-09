@@ -31,9 +31,6 @@ Web Developer
   <h4><strong>🚪 Back-End Developer</strong></h4>
   <img width="250px" src="https://skillicons.dev/icons?i=cs,dotnet" alt="Back-End Developer Skills" style="display: block; margin: 0 auto;">
 
-<!-- Adiciona um ícone específico para SQL -->
-  <img width="100px" src="https://img.icons8.com/ios-filled/100/000000/sql.png" alt="SQL" style="display: block; margin: 0 auto;">
-
   <!-- Ferramentas favoritas -->
   <h4><strong>🛠️ Favorite Tools</strong></h4>
   <img width="250px" src="https://skillicons.dev/icons?i=vscode,github,visualstudio" alt="Favorite Tools">
