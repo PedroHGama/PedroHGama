@@ -7,8 +7,6 @@
     </a>
   </h2>
 </div>
-<br>
-
 <!-- Seção de Desenvolvedor Web centralizada com fonte aumentada -->
 <br>
 
@@ -19,6 +17,7 @@ Web Developer
 - ⚡ Futuro dev
 -->
 
+<br>
 <!-- Seção de linguagens estudadas -->
 <div align="center">
   <h2>Algumas Linguagens que tenho estudado até aqui!</h2>
@@ -47,6 +46,7 @@ Web Developer
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="instagram logo" /> </a>
 </div>
 
+<br>
  ## 📊 GitHub Stats:
 <div>
   <a href="https://github.com/PedroHGama">
