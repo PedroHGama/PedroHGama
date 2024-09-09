@@ -53,6 +53,6 @@ Web Developer
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PedroHGama&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHGama&layout=compact&langs_count=16&theme=onedark">
 
-![Snake animation](https://github.com/PedroHGama/daniellimapro/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](cobrinha.yml)
     
 </div>
