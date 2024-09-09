@@ -17,13 +17,13 @@ Web Developer
  <h2>Algumas Linguagens que tenho estudado até aqui! </h2>
 
   <h4><strong>💻 Front-End Developer</strong></h4>
-  <img width="400px" src="https://skillicons.dev/icons?i=javascript,css,html," alt="Front-End Developer Skills">
+  <img width="400px" src="https://skillicons.dev/icons?i=html,css,javascript," alt="Front-End Developer Skills">
 
   <h4><strong>🚪 Back-End Developer</strong></h4>
   <img width="120px" src="https://skillicons.dev/icons?i=c#" alt="Back-End Developer Skills">
 
   <h4><strong>🛠️ Favorite Tools</strong></h4>
-  <img width="250px" src="https://skillicons.dev/icons?i=vscode,github,bash,discord" alt="Favorite Tools">
+  <img width="250px" src="https://skillicons.dev/icons?i=vscode,github,visal studio" alt="Favorite Tools">
 </div>
 
  
