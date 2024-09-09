@@ -23,7 +23,7 @@
 
   <!-- Front-End Developer -->
   <h4><strong>💻 Front-End Developer</strong></h4>
-  <img width="400px" src="https://skillicons.dev/icons?i=html,css,javascript" alt="Front-End Developer Skills" style="display: block; margin: 0 auto;">
+  <img width="250px" src="https://skillicons.dev/icons?i=html,css,javascript" alt="Front-End Developer Skills" style="display: block; margin: 0 auto;">
 
   <!-- Back-End Developer -->
   <h4><strong>🚪 Back-End Developer</strong></h4>
