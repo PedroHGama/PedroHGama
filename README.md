@@ -45,7 +45,7 @@ Web Developer
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="instagram logo" /> </a>
 </div>
 
-![Snake animation](https://github.com/PedroHGama/PedroHGama/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/daniellimapro/daniellimapro/blob/output/github-contribution-grid-snake.svg)
 
 <br>
 
