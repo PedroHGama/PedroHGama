@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PedroHGama&label=Profile%20views&color=0e75b6&style=flat" alt="PedroHGama" /> </p>
 
 <!-- TYPING DATA -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Hi!👋+My+name+is+Pedro;I'm+from+Brazil;I'm+17+years-old;Welcome+to+my+profile!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Hi!👋+My+name+is+Pedro;I'm+from+Brazil;I'm+17+years-old;I'm+Web+Develop;Welcome+to+my+profile!)
 
 <!-- BREVE DESCRIPCION -->
 <div align="center">
