@@ -61,9 +61,6 @@ About me
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroHGama&radius=16&theme=dracula&area=true&order=5&custom_title=Contribution%20Chart" height="300" alt="activity-graph graph"  />
 </div>
 
-<p align="center">
- <img  src="https://github-readme-streak-stats.herokuapp.com?user=PedroHGama&theme=tokyonight_duo&hide_border=true&title_color=F776C0"
-</p>
 
 
 
