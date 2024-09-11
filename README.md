@@ -9,7 +9,7 @@
 <!-- Seção de Desenvolvedor Web centralizada com fonte aumentada -->
 <br>
 
-Web Developer 
+About me 
 -----------------
  🌱 Iniciante aprendendo desenvolvimento web
  🐼 Adoro buscar entender como as coisas funcionam
@@ -47,14 +47,22 @@ Web Developer
 <br>
 
  ## 📊 GitHub Stats:
-<div align="center">
-  <a href="https://github.com/PedroHGama">
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PedroHGama&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHGama&layout=compact&langs_count=16&theme=onedark">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroHGama&radius=16&theme=dracula&area=true&order=5&custom_title=Contribution%20Chart" height="300" alt="activity-graph graph"  />
+<!-- TROFEOS GITHUB -->
+<h3 align="center">Stats:</h3>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PedroHGama&theme=dracula&column=-1" alt="PedroHGama" /></a> </p>
+
+<!-- STATS Y LENGUAJES MAS USADOS -->
+<div align="center">  
+  <img width="53%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PedroHGama&show_icons=true&count_private=true&hide_border=true&title_color=F776C0&icon_color=02D9F7FF&text_color=6594E2&bg_color=0d1117" alt="Bastian Dev github stats" /> 
+  
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHGama&layout=compact&hide_border=true&title_color=F776C0&text_color=6594E2&bg_color=0d1117" />
+</div>
+
+<p align="center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com?user=PedroHGama&theme=tokyonight_duo&hide_border=true&title_color=F776C0"
+</p>
+
 
 
 ![Snake animation](https://github.com/daniellimapro/daniellimapro/blob/output/github-contribution-grid-snake.svg)
 
-    
-</div>
