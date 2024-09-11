@@ -11,9 +11,9 @@
 
 Web Developer 
 -----------------
-- 🌱 Iniciante aprendendo desenvolvimento web
-- 🐼 Adoro buscar entender como as coisas funcionam
-- ⚡ Futuro dev
+ 🌱 Iniciante aprendendo desenvolvimento web
+ 🐼 Adoro buscar entender como as coisas funcionam
+ ⚡ Futuro dev
 -->
 
 <!-- Seção de linguagens estudadas -->
