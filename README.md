@@ -1,12 +1,11 @@
+<!-- VISTAS DEL PERFIL -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PedroHGama&label=Profile%20views&color=0e75b6&style=flat" alt="PedroHGama" /> </p>
+
+<!-- TYPING DATA -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Hi!👋+My+name+is+Pedro;I'm+from+Brazil;I'm+17+years-old;Welcome+to+my+profile!)
+
+<!-- BREVE DESCRIPCION -->
 <div align="center">
-  <!-- Título de boas-vindas -->
-  <h2>
-    <a href="https://git.io/typing-svg">
-      <!-- Imagem gerada pelo serviço "Typing SVG" que mostra uma frase animada -->
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ol%C3%A1%2C +👋+eu+sou+o+Pedro+Gama%21" alt="Typing SVG">
-    </a>
-  </h2>
-</div>
 <!-- Seção de Desenvolvedor Web centralizada com fonte aumentada -->
 <br>
 
