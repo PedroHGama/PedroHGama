@@ -33,11 +33,14 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PedroHGama&theme=dracula&column=-1" alt="PedroHGama" /></a> </p>
 
 <!-- STATS Y LENGUAJES MAS USADOS -->
-<div align="center">  
-  <img width="53%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PedroHGama&show_icons=true&count_private=true&hide_border=true&title_color=F776C0&icon_color=02D9F7FF&text_color=6594E2&bg_color=0d1117" alt="Bastian Dev github stats" /> 
-  
-  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHGama&layout=compact&hide_border=true&title_color=F776C0&text_color=6594E2&bg_color=0d1117" />
-   <a href="https://github.com/PedroHGama">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <!-- Estatísticas do GitHub -->
+  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PedroHGama&show_icons=true&count_private=true&hide_border=true&title_color=F776C0&icon_color=02D9F7FF&text_color=6594E2&bg_color=0d1117" alt="Pedro Gama github stats" />
+
+  <!-- Linguagens mais usadas -->
+  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHGama&layout=compact&hide_border=true&title_color=F776C0&text_color=6594E2&bg_color=0d1117" />
+</div>
+
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroHGama&radius=16&theme=dracula&area=true&order=5&custom_title=Contribution%20Chart" height="300" alt="activity-graph graph"  />
 </div>
