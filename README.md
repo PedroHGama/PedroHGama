@@ -27,6 +27,7 @@
 
 <br>
 <div align="left">
+  
  ## 📊 GitHub Stats:
   </div>
 <!-- TROFEOS GITHUB -->
@@ -47,7 +48,10 @@
 <br>
 
 <!-- Redes sociais -->
-## 🌐Socials:
+<div align="left">
+  
+  ## 🌐Socials:
+</div>
 <div> 
   <a href = "mailto:pedrogamase@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-gamam/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
