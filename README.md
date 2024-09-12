@@ -6,11 +6,10 @@
 
 <!-- BREVE DESCRIPCION -->
 <div align="center">
-<!-- Seção de Desenvolvedor Web centralizada com fonte aumentada -->
 <br>
 
 <!-- Seção de linguagens estudadas -->
-<div align="left">
+<div align="center">
   <h2>Algumas Linguagens que tenho estudado até aqui!</h2>
 
   <!-- Front-End Developer -->
@@ -30,7 +29,7 @@
 
  ## 📊 GitHub Stats:
 <!-- TROFEOS GITHUB -->
-<h3 align="center">Stats:</h3>
+<h3 align="left">Stats:</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PedroHGama&theme=dracula&column=-1" alt="PedroHGama" /></a> </p>
 
 <!-- STATS Y LENGUAJES MAS USADOS -->
