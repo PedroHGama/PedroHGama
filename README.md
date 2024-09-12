@@ -10,7 +10,7 @@
 <br>
 
 <!-- Seção de linguagens estudadas -->
-<div align="center">
+<div align="left">
   <h2>Algumas Linguagens que tenho estudado até aqui!</h2>
 
   <!-- Front-End Developer -->
