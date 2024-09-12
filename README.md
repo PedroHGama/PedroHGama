@@ -12,11 +12,14 @@
 
   <!-- Seção de linguagens estudadas -->
   <div align="center">
+    
     <h2>Algumas Linguagens que tenho estudado até aqui!</h2>
 
     <!-- Habilidades de Front-End -->
+    
     <h4><strong>💻 Front-End Developer</strong></h4>
     <!-- Exibe ícones das linguagens de Front-End que você domina -->
+    
     <img width="200px" src="https://skillicons.dev/icons?i=html,css,javascript" alt="Habilidades de Front-End" style="display: block; margin: 0 auto;">
 
     <!-- Habilidades de Back-End -->
