@@ -28,13 +28,14 @@
 
 <br>
 
- ## 📊 GitHub Stats:
+## 📊 GitHub Stats:
+
 <!-- TROFEOS GITHUB -->
-<h3 align="center">Stats:</h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PedroHGama&theme=dracula&column=-1" alt="PedroHGama" /></a> </p>
+<h3 align="left">Stats:</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PedroHGama&theme=dracula&column=-1" alt="PedroHGama" /></a> </p>
 
 <!-- STATS Y LENGUAJES MAS USADOS -->
-<div align="center">  
+<div align="left">  
   <img width="53%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PedroHGama&show_icons=true&count_private=true&hide_border=true&title_color=F776C0&icon_color=02D9F7FF&text_color=6594E2&bg_color=0d1117" alt="Bastian Dev github stats" /> 
   
   <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHGama&layout=compact&hide_border=true&title_color=F776C0&text_color=6594E2&bg_color=0d1117" />
@@ -48,7 +49,7 @@
 <br>
 
 <!-- Redes sociais -->
-## 🌐Socials:
+## 🌐 Socials:
 <div> 
   <a href = "mailto:pedrogamase@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-gamam/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
