@@ -26,10 +26,10 @@
 </div>
 
 <br>
-
+<div align="left">
  ## 📊 GitHub Stats:
+  </div>
 <!-- TROFEOS GITHUB -->
-<h3 align="left">Stats:</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PedroHGama&theme=dracula&column=-1" alt="PedroHGama" /></a> </p>
 
 <!-- STATS Y LENGUAJES MAS USADOS -->
